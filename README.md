@@ -53,6 +53,12 @@ This project demonstrates a complete penetration testing workflow conducted with
 - Security Reconnaissance
 - Incident Investigation
 
+## Demonstration Video
+
+Watch the MFA implementation demonstration:
+
+https://youtu.be/CkOm367VoRY  
+
 ## Disclaimer
 
 All testing was conducted within an authorized educational lab environment for cybersecurity training purposes.
