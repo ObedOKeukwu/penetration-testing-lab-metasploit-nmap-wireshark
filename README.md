@@ -55,7 +55,7 @@ This project demonstrates a complete penetration testing workflow conducted with
 
 ## Demonstration Video
 
-Watch the MFA implementation demonstration:
+Watch the Penetration Testing demonstration:
 
 https://youtu.be/CkOm367VoRY  
 
